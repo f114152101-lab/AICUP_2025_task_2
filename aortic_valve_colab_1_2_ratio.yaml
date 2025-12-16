@@ -1,0 +1,5 @@
+train: "./datasets_1_2_ratio/train/images"
+val: "./datasets_1_2_ratio/val/images"
+
+names:
+  0: aortic_valve
